@@ -1,0 +1,13 @@
+<bizilab = 'http://fi.muni.cz/pa165/bizlab'>
+
+// Root node
+[bizilab:typeCategory] > nt:unstructured
+    -bizilab:id (String) 
+	-bizilab:name (String)
+    + * (bizilab:typeProduct) multiple
+
+// product node
+[bizilab:typeProduct] 
+    -bizilab:id (String) 
+    -bizilab:name (String)  
+    -bizilab:description (String) 

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Category id="cat101" name="Books and Papers">
+	<Product id="pid101" name="Product1" description="This is new product1 in market">
+	</Product>
+	<Product id="pid102" name="Product2" description="This is new product2 in market" >
+	</Product>
+	<Product id="pid103" name="Product3" description="This is new product3 in market" >
+	</Product>
+	<Product id="pid104" name="Product=4" description="This is new product4 in market" >
+	</Product>
+	<Product id="pid105" name="Product=5" description="This is new product5 in market" >
+	</Product>
+</Category>
+
